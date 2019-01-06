@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #444444;
+  padding: 54px;
+  max-width: 720px;
+  margin: 0 auto;
+  border-left: 6px solid #e2231a;
+}
+
+/* Styles other page elements below */
+header {
+  }
+  h1{
+    color:#e2231a;
+    font-weight: 100;
+  }
+  h2{
+    color:white
+    
+    
+  }
+h4{
+  font-weight: 50;
+}
+nav{
+  color: white; 
+  background-color: white;
+}
+img{
+  height:100%;
+  width:100%;
+}
+h6{
+  color:red;
+  text-align: right;
+    
+}
+.bottom-nav-link{
+  color: #e2231a
+}
+.top-nav-link{
+  color: blue
+  }
+  section{
+    border-bottom: solid 1.5px grey;
+   }
